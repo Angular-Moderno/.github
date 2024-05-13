@@ -1,6 +1,6 @@
-## Curso TrainingIT de Angular Moderno  👋
+## Curso [TrainingIT](https://www.trainingit.es/) de Angular Moderno  👋
 
-- [🏫 Plataforma de formación online TrainingIT](https://www.trainingit.es/)
+- [🏫 Plataforma de formación online TrainingIT](https://cursos.trainingit.es/)
 - [📕 Curso de Angular moderno](https://www.trainingit.es/index.php/producto/angular-moderno-angular-17/)
 - [🧑‍🏫 Impartido por Alberto Basalo](https://albertobasalo.dev)
 
